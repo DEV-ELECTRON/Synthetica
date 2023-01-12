@@ -1,6 +1,6 @@
 # "Synthetica" One Page Website Template
 
-"Synthetica" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
+"Synthetica" is a one page website template made by [Mostafa Reda]
 
 [Article on Codrops](http://tympanus.net/codrops/?p=26570)
 
@@ -23,13 +23,5 @@ Use it freely but please do not republish, distribute or sell "as-is". Please cr
 *   [Retina.js](http://imulus.github.io/retinajs/)
 *   [VideoJS](http://videojs.com/)
 *   [Waypoints.js](http://imakewebthings.com/waypoints/)
-
-## Misc
-
-Follow Pete: [Twitter](https://twitter.com/peterfinlan), [Dribbble](http://www.dribbble.com/peterfinlan)
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2016](http://www.codrops.com)
 
 
